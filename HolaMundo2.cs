@@ -7,11 +7,7 @@ public class HolaMundo2 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        string variable = "Hola";
-        print("sdsagds");
-        print(123124);
-        print(variable);
-
+        print("Hola Mundo!");
     }
 
     // Update is called once per frame
